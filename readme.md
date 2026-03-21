@@ -19,7 +19,7 @@ A single-page clone of the ChatGPT interface built with plain HTML, CSS, and Jav
 3. Type a message or click a suggestion chip to start chatting
 
 ## Files
-
+ 
 ```
 gpt-search-clone.html   # The entire app — HTML, CSS, and JS in one file
 README.md               # This file
