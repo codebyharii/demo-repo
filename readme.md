@@ -22,7 +22,8 @@ A single-page clone of the ChatGPT interface built with plain HTML, CSS, and Jav
  
 ```
 gpt-search-clone.html  
-README.md               
+README.md
+```        
 ```
 
 ## Tech Stack
